@@ -1,0 +1,27 @@
+button{
+    border: 40px;
+    
+    flex: display;
+    min-height: auto;
+    height: 50px;
+    width: 50px;
+   
+   background-color:transparent;
+   font-size: medium;
+}
+div{
+   
+    
+
+    position: absolute;
+    border: 5px  solid blueviolet;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+}
+body{
+    background-image: url("ba.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
